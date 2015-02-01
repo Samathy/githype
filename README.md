@@ -28,8 +28,9 @@ Githype should be easy for a user to deploy on their own hosting solution and re
 
 Support for other Git remote sites/platforms such as Bitbucket, Gitlab and cgit may be added in the future and is something I certainly would like to offer.
 
-*Contributors:*
+_Contributors:_
 
 Samathy - milktheelephant
+
 Nathan - neeasade
 
